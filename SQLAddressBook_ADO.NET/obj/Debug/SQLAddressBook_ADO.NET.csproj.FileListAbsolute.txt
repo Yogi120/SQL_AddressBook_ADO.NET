@@ -1,0 +1,16 @@
+C:\Users\brijesh.pal\source\repos\logical_problems\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.csproj.AssemblyReference.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\brijesh.pal\source\repos\logical_problems\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\bin\Debug\SQLAddressBook_ADO.NET.exe.config
+C:\Users\brijesh.pal\source\repos\logical_problems\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\bin\Debug\SQLAddressBook_ADO.NET.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\bin\Debug\SQLAddressBook_ADO.NET.pdb
+C:\Users\brijesh.pal\source\repos\logical_problems\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.exe
+C:\Users\brijesh.pal\source\repos\logical_problems\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.pdb
+C:\Users\brijesh.pal\source\repos\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.csproj.AssemblyReference.cache
+C:\Users\brijesh.pal\source\repos\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\brijesh.pal\source\repos\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\brijesh.pal\source\repos\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.exe
+C:\Users\brijesh.pal\source\repos\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\obj\Debug\SQLAddressBook_ADO.NET.pdb
+C:\Users\brijesh.pal\source\repos\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\bin\Debug\SQLAddressBook_ADO.NET.exe.config
+C:\Users\brijesh.pal\source\repos\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\bin\Debug\SQLAddressBook_ADO.NET.exe
+C:\Users\brijesh.pal\source\repos\SQLAddressBook_ADO.NET\SQLAddressBook_ADO.NET\bin\Debug\SQLAddressBook_ADO.NET.pdb
