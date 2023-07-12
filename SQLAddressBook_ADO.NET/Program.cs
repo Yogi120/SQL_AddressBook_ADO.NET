@@ -59,6 +59,13 @@ namespace SQLAddressBook_ADO.NET
                         Method.Display();
                         break;
 
+                    case 4:
+
+                        Console.Write("Enter id: ");
+                        int id = int.Parse(Console.ReadLine());
+                        Method.DeleteContact(id);
+                        break;
+
 
                 }
             }
