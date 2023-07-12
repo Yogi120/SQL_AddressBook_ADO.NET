@@ -16,7 +16,7 @@ namespace SQLAddressBook_ADO.NET
             {
                 Console.WriteLine("Address Book :");
                 Console.WriteLine("1. Add Contact");
-                Console.WriteLine("2. Edit Contact");
+                Console.WriteLine("2. Edit/Update Contact");
                 Console.WriteLine("3. Display Contact");
                 Console.WriteLine("4. Delete Contact");
                 Console.WriteLine("5. exit");
@@ -45,7 +45,22 @@ namespace SQLAddressBook_ADO.NET
 
                         break;
 
-                }  
+
+                    case 2:
+
+                        Console.Write("Enter Contact Name: ");
+                        string Updatecontact = Console.ReadLine();
+                        Method.UpdateContact(Updatecontact);
+                        break;
+
+                    case 3:
+
+                        Console.WriteLine("Displaying Contact");
+                        Method.Display();
+                        break;
+
+
+                }
             }
         }
     }
