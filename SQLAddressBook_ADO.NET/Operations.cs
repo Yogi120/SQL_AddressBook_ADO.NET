@@ -82,5 +82,16 @@ namespace SQLAddressBook_ADO.NET
 
             sqlConnection.Close();
         }
+        public void DeleteContact(int Id)
+        {
+            sqlConnection.Open();
+
+            string deletequery = $"DELETE FROM EMPLOYEE WHERE Id = {Id}";
+            SqlCommand deletecommand = new SqlCommand(deletequery, sqlConnection);
+
+            deletecommand.ExecuteNonQuery();
+
+            sqlConnection.Close();
+        }
     }
 }
