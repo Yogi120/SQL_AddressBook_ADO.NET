@@ -20,14 +20,25 @@ namespace SQLAddressBook_ADO.NET
         {
             
         }
-        public Contact(string name, string phoneNumber, string email, string state, string city, string zipCode)
+        public Contact(int id, string name, string phoneNumber, string email, string state, string city, string zipCode)
         {
+            Id = id;
             Name = name;
             PhoneNumber = phoneNumber;
             Email = email;
             State = state;
             City = city;
             ZipCode = zipCode;
+        }
+
+        public Contact(string spname, string spphoneNumber, string spemail, string spstate, string spcity, string spzipCode)
+        {
+            Name = spname;
+            PhoneNumber = spphoneNumber;
+            Email = spemail;
+            State = spstate;
+            City = spcity;
+            ZipCode = spzipCode;
         }
     }
 }
